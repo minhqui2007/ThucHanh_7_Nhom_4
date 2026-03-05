@@ -24,12 +24,12 @@
 
 ## 👥 Danh Sách Thành Viên Nhóm 4
 
-| STT | Họ và tên | MSSV | Phân công / Ghi chú |
+| STT | Họ và tên | MSSV |
 | :---: | :--- | :---: | :--- |
-| **1** | `Huỳnh Phước Hiệp` | **B2509662** | *Cập nhật sau* |
-| **2** | `Sơn Lâm Võ Minh Quí` | **B2509693** | *Cập nhật sau* |
-| **3** | `Nguyễn Thị Kim Tuyến` | **B2509706** | *Cập nhật sau* |
-| **4** | `Lê Vũ Duy` | **B2509719** | *Cập nhật sau* |
+| **1** | `Huỳnh Phước Hiệp` | **B2509662** |
+| **2** | `Sơn Lâm Võ Minh Quí` | **B2509693** |
+| **3** | `Nguyễn Thị Kim Tuyến` | **B2509706** |
+| **4** | `Lê Vũ Duy` | **B2509719** |
 
 ---
 
